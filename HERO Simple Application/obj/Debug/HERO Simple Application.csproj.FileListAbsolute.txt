@@ -1,0 +1,19 @@
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\bin\Debug\le\HERO Simple Application.exe
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\bin\Debug\be\HERO Simple Application.exe
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\bin\Debug\le\HERO Simple Application.pdb
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\bin\Debug\be\HERO Simple Application.pdb
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\bin\Debug\HERO Simple Application.exe
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\bin\Debug\HERO Simple Application.pdb
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\bin\Debug\le\HERO Simple Application.pe
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\bin\Debug\le\HERO Simple Application.pdbx
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\bin\Debug\be\HERO Simple Application.pe
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\bin\Debug\be\HERO Simple Application.pdbx
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\obj\Debug\HERO Simple Application.csprojAssemblyReference.cache
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\obj\Debug\HERO Simple Application.csproj.CoreCompileInputs.cache
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\obj\Debug\be\HERO Simple Application.pe
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\obj\Debug\be\HERO Simple Application.pdbx
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\obj\Debug\le\HERO Simple Application.pe
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\obj\Debug\le\HERO Simple Application.pdbx
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\obj\Debug\HERO Simple Application.exe
+C:\Users\captc\source\repos\HERO Simple Application\HERO Simple Application\obj\Debug\HERO Simple Application.pdb
